@@ -3,13 +3,15 @@ Hi, I’m Abhigna 👋
 
 🎓 Mechanical Engineer moving toward Industrial Engineering & Data Analytics
 
-🛠️ Tools: Python | SQL | Tableau | Excel
+🛠️ Tools: Python | SQL | Tableau | Excel | PowerBI
+
+📚 Currently learning Data Mining, Data Wrangling, and Data Analytics
 
 🏭 Passionate about applying data analytics to operations, supply chain, and manufacturing systems
 
 📊 Interested in using data to optimize processes, reduce waste, and drive efficiency
 
-🚀 On a journey to combine engineering foundations with modern analytics for smarter industries
+
 <!--
 **AbhignaKyasaram/Abhignakyasaram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
