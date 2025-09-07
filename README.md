@@ -1,4 +1,4 @@
-## Hi there 👋
+
 Hi, I’m Abhigna 👋
 
 🎓 Mechanical Engineer moving toward Industrial Engineering & Data Analytics
